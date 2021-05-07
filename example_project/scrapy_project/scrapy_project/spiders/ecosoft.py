@@ -31,8 +31,8 @@ class EcosoftSpider(scrapy.Spider):
         options.headless = True
         driver = webdriver.Firefox(executable_path='./scrapy_project/geckodriver', options=options)
         driver.get(self.start_urls[0])
-        driver.find_element_by_id("LoginId").send_keys("arif0171")
-        driver.find_element_by_id("Password").send_keys("12341234")
+        driver.find_element_by_id("LoginId").send_keys("****")
+        driver.find_element_by_id("Password").send_keys("****")
         driver.find_element_by_class_name("button.login.t-button.btn-primary").click()
         driver.save_screenshot("test.png")
         # driver.find_element_by_id("SharePriceGrid").text
