@@ -1,0 +1,1208 @@
+1620040240742	geckodriver	INFO	Listening on 127.0.0.1:39311
+1620040241774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS8EZLz"
+1620040259399	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620040277642	Marionette	INFO	Listening on port 36985
+1620040278274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A013B,name=PContent::Msg_BlobURLDataRequest) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1620040310640	Marionette	INFO	Stopped listening on port 36985
+1620040692154	geckodriver	INFO	Listening on 127.0.0.1:59791
+1620040692161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1UnRdb"
+1620040695605	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620040708743	Marionette	INFO	Listening on port 38509
+1620040710306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620040877178	Marionette	INFO	Stopped listening on port 38509
+1620040887632	geckodriver	INFO	Listening on 127.0.0.1:56689
+1620040887640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewK609W"
+1620040891224	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620040902066	Marionette	INFO	Listening on port 45891
+1620040902209	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 571))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1002))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle26 (resource://devtools/server/actors/page-style.js:571:5)", "resource://devtools/shared/protocol/Front.js", 358))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle26 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 358))
+1620041078491	geckodriver	INFO	Listening on 127.0.0.1:44555
+1620041078497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3UqGhL"
+1620041080835	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620041090756	Marionette	INFO	Listening on port 39023
+1620041090922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker25, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:285:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3735:24\ndestroy@resource://devtools/client/framework/toolbox.js:3669:10\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:689:17\nhandleEvent@resource://devtools/client/framework/devtools-browser.js:710:26\n", "resource://devtools/shared/protocol/Front.js", 99))
+1620041244174	geckodriver	INFO	Listening on 127.0.0.1:52179
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1620041245300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqsj3Yj"
+1620041247737	Marionette	INFO	Stopped listening on port 45891
+1620041255121	Marionette	INFO	Stopped listening on port 39023
+1620041255145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620041268085	Marionette	INFO	Listening on port 35007
+1620041268202	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620041291096	Marionette	INFO	Stopped listening on port 35007
+1620041323628	geckodriver	INFO	Listening on 127.0.0.1:34491
+1620041323634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW9zOxN"
+1620041326597	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620041333672	Marionette	INFO	Listening on port 44179
+1620041333896	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620041352832	Marionette	INFO	Stopped listening on port 44179
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1620041385861	geckodriver	INFO	Listening on 127.0.0.1:37281
+1620041385868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiiP96b"
+1620041387801	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620041395230	Marionette	INFO	Listening on port 44173
+1620041395334	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620041417172	Marionette	INFO	Stopped listening on port 44173
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2140,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2140","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:960","chrome://marionette/content/driver.js:GeckoDriver.prototype.quit:2860","chrome://marionette/content/server.js:despatch:291","chrome://marionette/content/server.js:execute:264","chrome://marionette/content/server.js:onPacket/<:237","chrome://marionette/content/server.js:onPacket:238","chrome://marionette/content/transport.js:_onJSONObjectReady/<:504"]}] Barrier: quit-application-granted
+1620041486534	geckodriver	INFO	Listening on 127.0.0.1:56587
+1620041486546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletJVNBe"
+1620041488726	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620041495267	Marionette	INFO	Listening on port 34631
+1620041495515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620041516726	Marionette	INFO	Stopped listening on port 34631
+1620042229911	geckodriver	INFO	Listening on 127.0.0.1:52925
+1620042229932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWeBAwK"
+1620042232218	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620042241628	Marionette	INFO	Listening on port 38967
+1620042241714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620042258980	Marionette	INFO	Stopped listening on port 38967
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2140,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2140","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:960","chrome://marionette/content/driver.js:GeckoDriver.prototype.quit:2860","chrome://marionette/content/server.js:despatch:291","chrome://marionette/content/server.js:execute:264","chrome://marionette/content/server.js:onPacket/<:237","chrome://marionette/content/server.js:onPacket:238","chrome://marionette/content/transport.js:_onJSONObjectReady/<:504"]}] Barrier: quit-application-granted
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620284780559	geckodriver	INFO	Listening on 127.0.0.1:35423
+1620284780581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7lL6XF"
+1620284793286	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620284806791	Marionette	INFO	Listening on port 38399
+1620284806875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620284908177	geckodriver	INFO	Listening on 127.0.0.1:45021
+1620284909187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile69F6Yx"
+1620284911842	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620284922967	Marionette	INFO	Listening on port 42437
+1620284923119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620284945182	Marionette	INFO	Stopped listening on port 42437
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1620285089189	geckodriver	INFO	Listening on 127.0.0.1:45229
+1620285089200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile84k6OU"
+1620285092092	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620285101993	Marionette	INFO	Listening on port 46257
+1620285102208	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620285133499	Marionette	INFO	Stopped listening on port 46257
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1620285239875	geckodriver	INFO	Listening on 127.0.0.1:42545
+1620285240886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4qf2Bm"
+1620285244337	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1181: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1620285247113	Marionette	INFO	Stopped listening on port 38399
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620285253847	Marionette	INFO	Listening on port 38047
+1620285254165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620285279514	Marionette	INFO	Stopped listening on port 38047
+1620285365981	geckodriver	INFO	Listening on 127.0.0.1:51881
+1620285365987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejiRhP1"
+1620285367768	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620285373112	Marionette	INFO	Listening on port 35459
+1620285373189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620285394010	Marionette	INFO	Stopped listening on port 35459
+1620286015789	geckodriver	INFO	Listening on 127.0.0.1:37947
+1620286015804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqwINQz"
+1620286018242	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620286023183	Marionette	INFO	Listening on port 40513
+1620286023318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620286107615	Marionette	INFO	Stopped listening on port 40513
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620286455716	geckodriver	INFO	Listening on 127.0.0.1:36601
+1620286455722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei6UG5u"
+*** You are running in headless mode.
+1620286458054	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:23313): GLib-GObject-CRITICAL **: 13:34:19.058: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:23327): GLib-GObject-CRITICAL **: 13:34:19.370: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:23392): GLib-GObject-CRITICAL **: 13:34:21.527: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620286463677	Marionette	INFO	Listening on port 34285
+1620286463799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620286485916	Marionette	INFO	Stopped listening on port 34285
+1620286523375	geckodriver	INFO	Listening on 127.0.0.1:59381
+1620286523381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5l4KvI"
+*** You are running in headless mode.
+1620286525070	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:23559): GLib-GObject-CRITICAL **: 13:35:26.074: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:23573): GLib-GObject-CRITICAL **: 13:35:26.410: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:23638): GLib-GObject-CRITICAL **: 13:35:27.887: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620286529374	Marionette	INFO	Listening on port 46373
+1620286529428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620286550283	Marionette	INFO	Stopped listening on port 46373
+1620286722245	geckodriver	INFO	Listening on 127.0.0.1:58113
+1620286722252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenQXeAC"
+*** You are running in headless mode.
+1620286723901	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:23814): GLib-GObject-CRITICAL **: 13:38:44.771: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:23828): GLib-GObject-CRITICAL **: 13:38:45.062: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:23896): GLib-GObject-CRITICAL **: 13:38:47.839: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:23895): GLib-GObject-CRITICAL **: 13:38:47.960: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620286728013	Marionette	INFO	Listening on port 43297
+1620286728102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620286748339	Marionette	INFO	Stopped listening on port 43297
+1620290725762	geckodriver	INFO	Listening on 127.0.0.1:38509
+1620290726724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFJ6Ebz"
+*** You are running in headless mode.
+1620290742435	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:26528): GLib-GObject-CRITICAL **: 14:45:50.301: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:26574): GLib-GObject-CRITICAL **: 14:45:53.902: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:26746): GLib-GObject-CRITICAL **: 14:46:05.724: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620290775992	Marionette	INFO	Listening on port 45171
+1620290777253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620290876125	Marionette	INFO	Stopped listening on port 45171
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6D0016,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1620291183883	geckodriver	INFO	Listening on 127.0.0.1:36311
+1620291184886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8sKpgv"
+*** You are running in headless mode.
+1620291189557	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:27515): GLib-GObject-CRITICAL **: 14:53:10.925: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:27532): GLib-GObject-CRITICAL **: 14:53:11.554: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:27573): GLib-GObject-CRITICAL **: 14:53:13.461: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620291195519	Marionette	INFO	Listening on port 36213
+1620291195610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620291217379	Marionette	INFO	Stopped listening on port 36213
+1620291941987	geckodriver	INFO	Listening on 127.0.0.1:33013
+1620291942916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0846ro"
+*** You are running in headless mode.
+1620291945082	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:28451): GLib-GObject-CRITICAL **: 15:05:46.018: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:28465): GLib-GObject-CRITICAL **: 15:05:46.326: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:28532): GLib-GObject-CRITICAL **: 15:05:47.671: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620291949113	Marionette	INFO	Listening on port 38619
+1620291949170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620291970717	Marionette	INFO	Stopped listening on port 38619
+1620295321658	geckodriver	INFO	Listening on 127.0.0.1:60613
+1620295322604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMeyOfh"
+*** You are running in headless mode.
+1620295325074	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:31662): GLib-GObject-CRITICAL **: 16:02:06.085: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:31676): GLib-GObject-CRITICAL **: 16:02:06.461: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620295329174	Marionette	INFO	Listening on port 33319
+
+(/usr/lib/firefox/firefox:31751): GLib-GObject-CRITICAL **: 16:02:09.259: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620295329295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620295355169	Marionette	INFO	Stopped listening on port 33319
+1620295503356	geckodriver	INFO	Listening on 127.0.0.1:49523
+1620295503363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYNac0Q"
+*** You are running in headless mode.
+1620295505220	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:31959): GLib-GObject-CRITICAL **: 16:05:06.223: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:31973): GLib-GObject-CRITICAL **: 16:05:06.618: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:32021): GLib-GObject-CRITICAL **: 16:05:08.625: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620295512295	Marionette	INFO	Listening on port 44255
+1620295512648	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620295536054	Marionette	INFO	Stopped listening on port 44255
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1620295743497	geckodriver	INFO	Listening on 127.0.0.1:50717
+1620295744506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileANqbpP"
+*** You are running in headless mode.
+1620295746357	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:32211): GLib-GObject-CRITICAL **: 16:09:07.143: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:32230): GLib-GObject-CRITICAL **: 16:09:07.477: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:32279): GLib-GObject-CRITICAL **: 16:09:08.916: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620295751392	Marionette	INFO	Listening on port 42555
+1620295751524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620295777656	Marionette	INFO	Stopped listening on port 42555
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620295898340	geckodriver	INFO	Listening on 127.0.0.1:46099
+1620295898346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF85jBb"
+*** You are running in headless mode.
+1620295900215	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:32482): GLib-GObject-CRITICAL **: 16:11:41.143: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:32496): GLib-GObject-CRITICAL **: 16:11:41.412: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:32569): GLib-GObject-CRITICAL **: 16:11:43.583: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620295905580	Marionette	INFO	Listening on port 43891
+1620295905723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620295929732	Marionette	INFO	Stopped listening on port 43891
+1620296410126	geckodriver	INFO	Listening on 127.0.0.1:37761
+1620296410132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNwCBbo"
+*** You are running in headless mode.
+1620296411961	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:33135): GLib-GObject-CRITICAL **: 16:20:12.863: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:33150): GLib-GObject-CRITICAL **: 16:20:13.116: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:33226): GLib-GObject-CRITICAL **: 16:20:14.410: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620296415997	Marionette	INFO	Listening on port 46571
+1620296416111	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620296437915	Marionette	INFO	Stopped listening on port 46571
+1620296547571	geckodriver	INFO	Listening on 127.0.0.1:49515
+1620296548591	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS6DpK6"
+*** You are running in headless mode.
+1620296550920	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:33498): GLib-GObject-CRITICAL **: 16:22:32.434: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:33512): GLib-GObject-CRITICAL **: 16:22:32.834: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:33559): GLib-GObject-CRITICAL **: 16:22:34.563: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620296556536	Marionette	INFO	Listening on port 40647
+1620296556660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620296593771	Marionette	INFO	Stopped listening on port 40647
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620296727221	geckodriver	INFO	Listening on 127.0.0.1:35177
+1620296727227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLS3sc8"
+*** You are running in headless mode.
+1620296729215	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:33770): GLib-GObject-CRITICAL **: 16:25:30.652: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:33789): GLib-GObject-CRITICAL **: 16:25:31.309: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:33846): GLib-GObject-CRITICAL **: 16:25:33.745: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620296736446	Marionette	INFO	Listening on port 34679
+1620296736514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620296758390	Marionette	INFO	Stopped listening on port 34679
+1620296872827	geckodriver	INFO	Listening on 127.0.0.1:44917
+1620296873834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4W6oi1"
+*** You are running in headless mode.
+1620296875768	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:34033): GLib-GObject-CRITICAL **: 16:27:57.275: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:34047): GLib-GObject-CRITICAL **: 16:27:57.656: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:34113): GLib-GObject-CRITICAL **: 16:28:00.773: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620296882835	Marionette	INFO	Listening on port 35857
+1620296882988	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620296928524	Marionette	INFO	Stopped listening on port 35857
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620297037870	geckodriver	INFO	Listening on 127.0.0.1:57275
+1620297037881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFugp7H"
+*** You are running in headless mode.
+1620297039958	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:34316): GLib-GObject-CRITICAL **: 16:30:41.552: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:34335): GLib-GObject-CRITICAL **: 16:30:42.258: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:34391): GLib-GObject-CRITICAL **: 16:30:43.927: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620297046033	Marionette	INFO	Listening on port 35657
+1620297046210	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620297077842	Marionette	INFO	Stopped listening on port 35657
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620297244386	geckodriver	INFO	Listening on 127.0.0.1:42259
+1620297244392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevgzoXl"
+*** You are running in headless mode.
+1620297246121	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:34610): GLib-GObject-CRITICAL **: 16:34:07.298: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:34624): GLib-GObject-CRITICAL **: 16:34:07.489: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:34671): GLib-GObject-CRITICAL **: 16:34:09.502: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620297251219	Marionette	INFO	Listening on port 33421
+1620297251345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620297287159	Marionette	INFO	Stopped listening on port 33421
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620298153156	geckodriver	INFO	Listening on 127.0.0.1:35073
+1620298153164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOCuF8U"
+*** You are running in headless mode.
+1620298155669	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:35343): GLib-GObject-CRITICAL **: 16:49:16.660: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:35362): GLib-GObject-CRITICAL **: 16:49:17.032: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620298163380	Marionette	INFO	Listening on port 37227
+1620298163543	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:35428): GLib-GObject-CRITICAL **: 16:49:23.561: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620298198589	Marionette	INFO	Stopped listening on port 37227
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620298261637	geckodriver	INFO	Listening on 127.0.0.1:41581
+1620298261661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile25Kp1W"
+*** You are running in headless mode.
+1620298264599	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:35579): GLib-GObject-CRITICAL **: 16:51:05.517: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:35593): GLib-GObject-CRITICAL **: 16:51:05.755: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620298270039	Marionette	INFO	Listening on port 33337
+
+(/usr/lib/firefox/firefox:35651): GLib-GObject-CRITICAL **: 16:51:10.097: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620298270161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620298309926	Marionette	INFO	Stopped listening on port 33337
+1620298517704	geckodriver	INFO	Listening on 127.0.0.1:33677
+1620298517713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekcGyTs"
+*** You are running in headless mode.
+1620298519530	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:36082): GLib-GObject-CRITICAL **: 16:55:20.386: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:36096): GLib-GObject-CRITICAL **: 16:55:20.664: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620298523476	Marionette	INFO	Listening on port 44697
+
+(/usr/lib/firefox/firefox:36151): GLib-GObject-CRITICAL **: 16:55:23.488: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620298523559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620298549322	Marionette	INFO	Stopped listening on port 44697
+1620298675869	geckodriver	INFO	Listening on 127.0.0.1:37153
+1620298675876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenjMlU2"
+*** You are running in headless mode.
+1620298677551	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:36320): GLib-GObject-CRITICAL **: 16:57:58.502: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:36334): GLib-GObject-CRITICAL **: 16:57:58.702: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620298681331	Marionette	INFO	Listening on port 40373
+
+(/usr/lib/firefox/firefox:36410): GLib-GObject-CRITICAL **: 16:58:01.401: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620298681438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620298703755	Marionette	INFO	Stopped listening on port 40373
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620300266755	geckodriver	INFO	Listening on 127.0.0.1:35641
+1620300266762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA0ZCl5"
+*** You are running in headless mode.
+1620300268811	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:37067): GLib-GObject-CRITICAL **: 17:24:29.655: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:37081): GLib-GObject-CRITICAL **: 17:24:29.916: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:37133): GLib-GObject-CRITICAL **: 17:24:31.158: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620300272967	Marionette	INFO	Listening on port 45135
+1620300273012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620300300057	Marionette	INFO	Stopped listening on port 45135
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1620300342601	geckodriver	INFO	Listening on 127.0.0.1:49971
+1620300342609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS4YaLN"
+*** You are running in headless mode.
+1620300345630	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:37296): GLib-GObject-CRITICAL **: 17:25:46.632: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:37310): GLib-GObject-CRITICAL **: 17:25:46.912: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:37382): GLib-GObject-CRITICAL **: 17:25:48.362: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620300350128	Marionette	INFO	Listening on port 40365
+1620300350173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620300408527	Marionette	INFO	Stopped listening on port 40365
+1620300499089	geckodriver	INFO	Listening on 127.0.0.1:41661
+1620300499095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeVKFly"
+*** You are running in headless mode.
+1620300500930	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:37581): GLib-GObject-CRITICAL **: 17:28:21.788: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:37600): GLib-GObject-CRITICAL **: 17:28:22.092: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620300505066	Marionette	INFO	Listening on port 40073
+1620300505177	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:37651): GLib-GObject-CRITICAL **: 17:28:25.193: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620300525564	Marionette	INFO	Stopped listening on port 40073
+1620300814772	geckodriver	INFO	Listening on 127.0.0.1:46803
+1620300814782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewGxQ06"
+*** You are running in headless mode.
+1620300816971	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:37861): GLib-GObject-CRITICAL **: 17:33:37.862: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:37875): GLib-GObject-CRITICAL **: 17:33:38.131: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:37944): GLib-GObject-CRITICAL **: 17:33:39.378: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620300821198	Marionette	INFO	Listening on port 33081
+1620300821233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620300842499	Marionette	INFO	Stopped listening on port 33081
+1620300969101	geckodriver	INFO	Listening on 127.0.0.1:48757
+1620300969107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3UR97v"
+*** You are running in headless mode.
+1620300971772	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:38183): GLib-GObject-CRITICAL **: 17:36:12.544: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:38199): GLib-GObject-CRITICAL **: 17:36:12.943: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:38271): GLib-GObject-CRITICAL **: 17:36:14.269: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620300975908	Marionette	INFO	Listening on port 44825
+1620300976023	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620301003768	Marionette	INFO	Stopped listening on port 44825
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620301086695	geckodriver	INFO	Listening on 127.0.0.1:41505
+1620301086701	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU14Dln"
+*** You are running in headless mode.
+1620301088355	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:38427): GLib-GObject-CRITICAL **: 17:38:09.224: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:38441): GLib-GObject-CRITICAL **: 17:38:09.464: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:38521): GLib-GObject-CRITICAL **: 17:38:12.631: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:38520): GLib-GObject-CRITICAL **: 17:38:12.746: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620301093060	Marionette	INFO	Listening on port 35879
+1620301093157	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620301121331	Marionette	INFO	Stopped listening on port 35879
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1620302211372	geckodriver	INFO	Listening on 127.0.0.1:43779
+1620302211378	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyDCj84"
+*** You are running in headless mode.
+1620302213462	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:39537): GLib-GObject-CRITICAL **: 17:56:54.457: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:39556): GLib-GObject-CRITICAL **: 17:56:55.157: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:39598): GLib-GObject-CRITICAL **: 17:56:56.972: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620302219724	Marionette	INFO	Listening on port 41173
+1620302219872	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620302245875	Marionette	INFO	Stopped listening on port 41173
+1620302354386	geckodriver	INFO	Listening on 127.0.0.1:54897
+1620302355404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9RRI4T"
+*** You are running in headless mode.
+1620302359143	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:39792): GLib-GObject-CRITICAL **: 17:59:21.321: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:39808): GLib-GObject-CRITICAL **: 17:59:22.120: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:39861): GLib-GObject-CRITICAL **: 17:59:29.563: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620302369973	Marionette	INFO	Listening on port 42643
+1620302370046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620302400930	Marionette	INFO	Stopped listening on port 42643
+1620302443165	geckodriver	INFO	Listening on 127.0.0.1:35685
+1620302443171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT4SXBV"
+*** You are running in headless mode.
+1620302444881	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:40018): GLib-GObject-CRITICAL **: 18:00:45.926: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:40032): GLib-GObject-CRITICAL **: 18:00:46.253: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:40101): GLib-GObject-CRITICAL **: 18:00:50.208: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620302453139	Marionette	INFO	Listening on port 36045
+1620302453272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620302475720	Marionette	INFO	Stopped listening on port 36045
+1620302646365	geckodriver	INFO	Listening on 127.0.0.1:35105
+1620302646371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemhWL0w"
+*** You are running in headless mode.
+1620302648318	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:40321): GLib-GObject-CRITICAL **: 18:04:09.850: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:40335): GLib-GObject-CRITICAL **: 18:04:10.245: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:40411): GLib-GObject-CRITICAL **: 18:04:11.959: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620302653602	Marionette	INFO	Listening on port 39253
+1620302653746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620302689164	Marionette	INFO	Stopped listening on port 39253
+1620302939938	geckodriver	INFO	Listening on 127.0.0.1:49447
+1620302939945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNfZrtb"
+*** You are running in headless mode.
+1620302941531	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:40649): GLib-GObject-CRITICAL **: 18:09:02.443: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:40664): GLib-GObject-CRITICAL **: 18:09:02.709: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:40715): GLib-GObject-CRITICAL **: 18:09:04.164: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620302946028	Marionette	INFO	Listening on port 44887
+1620302946126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620303005025	Marionette	INFO	Stopped listening on port 44887
+1620303252642	geckodriver	INFO	Listening on 127.0.0.1:52343
+1620303253649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewmFZsN"
+*** You are running in headless mode.
+1620303255626	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:40989): GLib-GObject-CRITICAL **: 18:14:16.649: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:41008): GLib-GObject-CRITICAL **: 18:14:17.081: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:41044): GLib-GObject-CRITICAL **: 18:14:18.333: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620303260942	Marionette	INFO	Listening on port 39435
+1620303261015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620303290121	Marionette	INFO	Stopped listening on port 39435
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2140,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2140","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:960","chrome://marionette/content/driver.js:GeckoDriver.prototype.quit:2860","chrome://marionette/content/server.js:despatch:291","chrome://marionette/content/server.js:execute:264","chrome://marionette/content/server.js:onPacket/<:237","chrome://marionette/content/server.js:onPacket:238","chrome://marionette/content/transport.js:_onJSONObjectReady/<:504"]}] Barrier: quit-application-granted
+1620303431735	geckodriver	INFO	Listening on 127.0.0.1:38483
+1620303431741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWoiLLk"
+*** You are running in headless mode.
+1620303434035	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:41242): GLib-GObject-CRITICAL **: 18:17:15.458: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:41256): GLib-GObject-CRITICAL **: 18:17:15.830: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:41307): GLib-GObject-CRITICAL **: 18:17:17.577: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620303439766	Marionette	INFO	Listening on port 41751
+1620303439855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620303521674	geckodriver	INFO	Listening on 127.0.0.1:40325
+1620303521681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilealSTtm"
+*** You are running in headless mode.
+1620303523924	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:41451): GLib-GObject-CRITICAL **: 18:18:46.222: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:41470): GLib-GObject-CRITICAL **: 18:18:47.127: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:41533): GLib-GObject-CRITICAL **: 18:18:50.282: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620303533142	Marionette	INFO	Listening on port 46013
+1620303533296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620303570934	Marionette	INFO	Stopped listening on port 46013
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2140,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2140","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:960","chrome://marionette/content/driver.js:GeckoDriver.prototype.quit:2860","chrome://marionette/content/server.js:despatch:291","chrome://marionette/content/server.js:execute:264","chrome://marionette/content/server.js:onPacket/<:237","chrome://marionette/content/server.js:onPacket:238","chrome://marionette/content/transport.js:_onJSONObjectReady/<:504"]}] Barrier: quit-application-granted
+1620303665608	geckodriver	INFO	Listening on 127.0.0.1:40433
+1620303665665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSrkFwY"
+*** You are running in headless mode.
+1620303669904	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:41799): GLib-GObject-CRITICAL **: 18:21:11.886: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:41813): GLib-GObject-CRITICAL **: 18:21:12.488: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:41862): GLib-GObject-CRITICAL **: 18:21:15.218: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620303678382	Marionette	INFO	Listening on port 43043
+1620303678487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620303737585	Marionette	INFO	Stopped listening on port 43043
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620304015614	geckodriver	INFO	Listening on 127.0.0.1:40015
+1620304015620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezFl0R2"
+*** You are running in headless mode.
+1620304018229	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:42446): GLib-GObject-CRITICAL **: 18:27:03.487: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:42466): GLib-GObject-CRITICAL **: 18:27:05.141: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:42513): GLib-GObject-CRITICAL **: 18:27:09.134: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620304030829	Marionette	INFO	Listening on port 40953
+1620304030938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620304072235	Marionette	INFO	Stopped listening on port 40953
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2140,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2140","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:960","chrome://marionette/content/driver.js:GeckoDriver.prototype.quit:2860","chrome://marionette/content/server.js:despatch:291","chrome://marionette/content/server.js:execute:264","chrome://marionette/content/server.js:onPacket/<:237","chrome://marionette/content/server.js:onPacket:238","chrome://marionette/content/transport.js:_onJSONObjectReady/<:504"]}] Barrier: quit-application-granted
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1620304321436	Marionette	INFO	Stopped listening on port 41751
+1620357372374	geckodriver	INFO	Listening on 127.0.0.1:60637
+1620357373330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNeDyaD"
+*** You are running in headless mode.
+1620357387921	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:24668): GLib-GObject-CRITICAL **: 09:16:32.054: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:24691): GLib-GObject-CRITICAL **: 09:16:32.998: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:24741): GLib-GObject-CRITICAL **: 09:16:36.643: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:24744): GLib-GObject-CRITICAL **: 09:16:36.706: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620357400009	Marionette	INFO	Listening on port 32831
+1620357400320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620357421049	Marionette	INFO	Stopped listening on port 32831
+1620358060733	geckodriver	INFO	Listening on 127.0.0.1:46231
+1620358060743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDizhda"
+*** You are running in headless mode.
+1620358062423	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:25316): GLib-GObject-CRITICAL **: 09:27:43.268: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:25335): GLib-GObject-CRITICAL **: 09:27:43.584: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620358067043	Marionette	INFO	Listening on port 43489
+1620358067104	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25409): GLib-GObject-CRITICAL **: 09:27:47.234: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620358082237	Marionette	INFO	Stopped listening on port 43489
+1620358419172	geckodriver	INFO	Listening on 127.0.0.1:34373
+1620358419178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH8leaN"
+*** You are running in headless mode.
+1620358421419	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:25740): GLib-GObject-CRITICAL **: 09:33:42.250: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:25755): GLib-GObject-CRITICAL **: 09:33:42.556: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:25837): GLib-GObject-CRITICAL **: 09:33:45.559: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620358425562	Marionette	INFO	Listening on port 34627
+1620358425627	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620358440095	Marionette	INFO	Stopped listening on port 34627
+1620358834551	geckodriver	INFO	Listening on 127.0.0.1:47649
+1620358834558	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqonlvo"
+*** You are running in headless mode.
+1620358836571	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:26206): GLib-GObject-CRITICAL **: 09:40:37.368: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:26223): GLib-GObject-CRITICAL **: 09:40:37.714: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:26291): GLib-GObject-CRITICAL **: 09:40:39.128: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620358841073	Marionette	INFO	Listening on port 33261
+1620358841141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620358856396	Marionette	INFO	Stopped listening on port 33261
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5D0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5D0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5D0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5D0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5D0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620359101324	geckodriver	INFO	Listening on 127.0.0.1:51993
+1620359101331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletdNRi9"
+*** You are running in headless mode.
+1620359103161	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:26608): GLib-GObject-CRITICAL **: 09:45:04.042: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:26622): GLib-GObject-CRITICAL **: 09:45:04.305: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:26671): GLib-GObject-CRITICAL **: 09:45:05.567: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620359107339	Marionette	INFO	Listening on port 38557
+1620359107384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620359122647	Marionette	INFO	Stopped listening on port 38557
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1620360012166	geckodriver	INFO	Listening on 127.0.0.1:49463
+1620360012177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0dIGs3"
+*** You are running in headless mode.
+1620360016524	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:27577): GLib-GObject-CRITICAL **: 10:00:20.117: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:27571): GLib-GObject-CRITICAL **: 10:00:20.218: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:27643): GLib-GObject-CRITICAL **: 10:00:21.146: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620360022842	Marionette	INFO	Listening on port 38585
+1620360022971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620360042018	Marionette	INFO	Stopped listening on port 38585
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620369570780	geckodriver	INFO	Listening on 127.0.0.1:43215
+1620369571745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebR0FY6"
+*** You are running in headless mode.
+1620369588654	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:38390): GLib-GObject-CRITICAL **: 12:39:52.501: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:38413): GLib-GObject-CRITICAL **: 12:39:54.846: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:38485): GLib-GObject-CRITICAL **: 12:39:58.532: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:38484): GLib-GObject-CRITICAL **: 12:39:59.021: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620369602442	Marionette	INFO	Listening on port 41095
+1620369602918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://assetscdn-wchat.freshchat.com/static/assets/vendor-ae9740fdbeced57623cdffc937fa59b3.js, line 6905: unreachable code after return statement
+1620369624669	Marionette	INFO	Stopped listening on port 41095

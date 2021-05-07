@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+</head>
+{% load render_table from django_tables2 %}
+
+<body>
+
+{% block title %}{{ section.title }}{% endblock %}
+
+{% block content %}
+<h1>Data table</h1>
+
+<table  id="customers">
+    <tr><th>SL</th><th>Trade code</th><th>Cat</th><th>ltp</th><th>change</th><th>change_persent</th><th>value</th><th>volume</th><th>trade</th><th>high</th><th>low</th><th>open</th><th>ycp</th>
+    {% for queue in latest_question_list %}
+
+            <tr><td>{{ queue.sn }}</td><td>{{ queue.trade_code }}</td><td>{{ queue.cat }}</td><td>{{ queue.ltp }}</td><td>{{ queue.change }}</td><td>{{ queue.change_persent }}</td><td>{{ queue.value }}</td><td>{{ queue.volume }}</td><td>{{ queue.trade }}</td><td>{{ queue.high }}</td><td>{{ queue.low }}</td><td>{{ queue.open }}</td><td>{{ queue.ycp }}</td></tr>
+
+    {% endfor %}
+</table>
+{% endblock %}
+
+</body>
+</html>
