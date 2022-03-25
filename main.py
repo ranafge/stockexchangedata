@@ -25,8 +25,8 @@ params = (
 
 data = {
   'ReturnUrl': '/',
-  'LoginId': 'arif0171',
-  'Password': '12341234'
+  'LoginId': '***',
+  'Password': '**'
 }
 s = requests.Session()
 response = s.post('https://ost.ecosoftbd.com/Login', headers=headers, params=params, data=data)
